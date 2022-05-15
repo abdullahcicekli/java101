@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hipotenusHesapla/hipotenusHesapla.iml" filepath="$PROJECT_DIR$/hipotenusHesapla/hipotenusHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/notHesapla/notHesapla.iml" filepath="$PROJECT_DIR$/notHesapla/notHesapla.iml" />
