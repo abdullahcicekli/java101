@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/burcBulma/burcBulma.iml" filepath="$PROJECT_DIR$/burcBulma/burcBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/ciftSayiOdevi/ciftSayiOdevi.iml" filepath="$PROJECT_DIR$/ciftSayiOdevi/ciftSayiOdevi.iml" />
       <module fileurl="file://$PROJECT_DIR$/cinZodyagi/cinZodyagi.iml" filepath="$PROJECT_DIR$/cinZodyagi/cinZodyagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/daireHesaplama/daireHesaplama.iml" filepath="$PROJECT_DIR$/daireHesaplama/daireHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/hipotenusHesapla/hipotenusHesapla.iml" filepath="$PROJECT_DIR$/hipotenusHesapla/hipotenusHesapla.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/kuvvetBulma/kuvvetBulma.iml" filepath="$PROJECT_DIR$/kuvvetBulma/kuvvetBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/manav/manav.iml" filepath="$PROJECT_DIR$/manav/manav.iml" />
       <module fileurl="file://$PROJECT_DIR$/notHesapla/notHesapla.iml" filepath="$PROJECT_DIR$/notHesapla/notHesapla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obs/obs.iml" filepath="$PROJECT_DIR$/obs/obs.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/palindrome/palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/taksimetre/taksimetre.iml" filepath="$PROJECT_DIR$/taksimetre/taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/tekSayiOdevi/tekSayiOdevi.iml" filepath="$PROJECT_DIR$/tekSayiOdevi/tekSayiOdevi.iml" />
