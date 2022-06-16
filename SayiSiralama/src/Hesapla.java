@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
 public class Hesapla {
+
     public static void main(String[] args) {
+
+
 
         Scanner sc = new Scanner(System.in);
         System.out.printf("1. Sayıyı Giriniz : ");
