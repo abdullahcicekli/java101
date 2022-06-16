@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/kullaniciGirisi/kullaniciGirisi.iml" filepath="$PROJECT_DIR$/kullaniciGirisi/kullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/kuvvetBulma/kuvvetBulma.iml" filepath="$PROJECT_DIR$/kuvvetBulma/kuvvetBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maasHesaplama/maasHesaplama.iml" filepath="$PROJECT_DIR$/maasHesaplama/maasHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/manav/manav.iml" filepath="$PROJECT_DIR$/manav/manav.iml" />
       <module fileurl="file://$PROJECT_DIR$/notHesapla/notHesapla.iml" filepath="$PROJECT_DIR$/notHesapla/notHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/obs/obs.iml" filepath="$PROJECT_DIR$/obs/obs.iml" />
