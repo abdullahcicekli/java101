@@ -1,13 +1,11 @@
 public class Trying {
     public static void main(String[] args) {
-        recursiveMethod(4);
-    }
+        int[] scores = new int[10];
+        scores = new int[3];
+        scores = new int[]{215, 234, 218, 189, 221, 290};
 
-    static void recursiveMethod(int num) {
-        num--;
-        if (num == 0)
-            return;
-        System.out.print(num + ",");
-        recursiveMethod(num);
+        for (int score : scores) {
+            System.out.print(score + "  ");
+        }
     }
 }
